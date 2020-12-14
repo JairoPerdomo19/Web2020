@@ -1,26 +1,35 @@
 body{
-    background-color: red;
+    background-image: url("../imagenes/imagen\ fondo2.jpg");
 }
 
-h1 {color: black;}
-
-p {
-    color: black;
-    font-size: 120%;
+ul{
+    background-image: url("../imagenes/imagen-fondo.jpg");
 }
 
-#intro {
-    color: black;
-    background-color: wheat;
+/* Selector de tipo */
+div{
+    font-size: 110%;
+    color: white;
 }
 
-#intro .first em {
-    color: brown;
+/* Selector de id */
+
+#Primero {
+    background-color: black;
+}
+#Segundo {
     background-color: cadetblue;
 }
 
-p {
-    color: black;
-    /* This is a comment */
-    font-size: 150%;
+/* Selector de clase */
+.centrado {
+    text-align: center; color: white;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
 }
