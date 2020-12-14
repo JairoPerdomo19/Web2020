@@ -1,4 +1,7 @@
-# Mi primer repositorio Web2020
-Este repositorio es para Practicar HTML y CSS
+# Bienvenidos a mi sitio web
 
-Con este repositorio voy a aprender los lenguajes usados en la web.
+Hola! Soy Jairo Perdomo
+
+Accede al siguiente link para que veas mi proyecto de vida
+
+[Mi proyecto de vida] (https://jairoperdomo19.github.io/Web2020/proyecto-vida)
